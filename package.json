@@ -1,6 +1,6 @@
 {
   "name": "json-stringify-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "JSON.stringify transform stream",
   "main": "index.js",
   "directories": {
