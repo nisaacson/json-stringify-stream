@@ -1,6 +1,6 @@
 # JSON StringifyStream
 
-Stringifya readable stream of objects into json stringicy
+Stringify readable stream of objects into json strings
 
 [![NPM](https://nodei.co/npm/json-stringify-stream.png)](https://nodei.co/npm/json-stringify-stream/)
 
